@@ -29,3 +29,11 @@ Video Input
    │
    └──► FastAPI Endpoint → Processed Video Output
 
+
+## 🛠️ Tech Stack
+- **Framework:** FastAPI  
+- **Models:** SegFormer-B1, ByteTrack, VideoMAE  
+- **Language:** Python 3.11  
+- **Libraries:** PyTorch, Transformers, OpenCV, NumPy  
+- **Deployment:** Hugging Face Spaces  
+
