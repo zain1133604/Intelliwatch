@@ -45,8 +45,3 @@ Video Input
    ├──► VideoMAE → Behavior Recognition
    │
    └──► FastAPI Endpoint → Processed Video Output
-
-
----
-
-
